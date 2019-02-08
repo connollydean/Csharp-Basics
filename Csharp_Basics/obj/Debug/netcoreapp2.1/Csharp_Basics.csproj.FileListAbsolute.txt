@@ -1,0 +1,11 @@
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.csprojAssemblyReference.cache
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.csproj.CoreCompileInputs.cache
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.AssemblyInfoInputs.cache
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.AssemblyInfo.cs
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.deps.json
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.runtimeconfig.json
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.runtimeconfig.dev.json
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.dll
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/bin/Debug/netcoreapp2.1/Csharp_Basics.pdb
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.dll
+/Users/connollydean/Desktop/IT2040 - C# .NET Class/Csharp_Basics/Csharp_Basics/obj/Debug/netcoreapp2.1/Csharp_Basics.pdb
